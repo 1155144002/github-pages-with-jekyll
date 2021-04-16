@@ -1,6 +1,6 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "What I did"
+date: 2021-04-17
 ---
 
 * bought lunch
