@@ -4,7 +4,7 @@ title: "Welcome to my blog"
 
 ## I'm glad you are here. I plan to talk about food and drinks.
 My name is Jericho.
-<img src="https://avatars.githubusercontent.com/u/80061077?s=60&v=4" width="100")
+![Profile picture](https:github.com/1155144002.png)
 
 
 {% for post in site.posts %}
